@@ -1,8 +1,7 @@
 
 
 public class GameOfFifteen {
-	//eheheh
-	// hejhej
+	//Teos branch uppdateringar
 	public static void main(String[] args) {
 		new GameWindow();
 	}
