@@ -85,7 +85,7 @@ public class Cell extends JButton implements ActionListener{
 		if(GameWindow.cellArr[3][3].getValue() == 0) {
 			if(isWin()) {
 				System.out.print("Game over!\n");
-				System.out.print("You've made this " + GameWindow.nMoves + "moves\n");
+				System.out.print("You've made thisss " + GameWindow.nMoves + "moves\n");
 			}
 		}
 			
