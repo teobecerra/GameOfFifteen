@@ -1,8 +1,8 @@
 
 
 public class GameOfFifteen {
-
-//hej hej hej
+	//eheheh
+	// hejhej
 	public static void main(String[] args) {
 		new GameWindow();
 	}
