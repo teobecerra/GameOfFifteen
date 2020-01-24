@@ -1,8 +1,7 @@
 
 
 public class GameOfFifteen {
-	//eheheh
-	// hejhej
+	//teo workingbranch change
 	public static void main(String[] args) {
 		new GameWindow();
 	}
